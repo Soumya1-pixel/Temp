@@ -16,3 +16,7 @@ for i in x:
     if i not in y:
         y.append(i)
 print(y)
+---------------------------------------
+row = 5
+for i in range(1,row+1):
+    print("*" * i)

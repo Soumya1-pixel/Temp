@@ -1,4 +1,4 @@
-x = int(input())
+x = int(input("Enter a number : "))
 c = 0
 i = 1
 while i <= x/2:
